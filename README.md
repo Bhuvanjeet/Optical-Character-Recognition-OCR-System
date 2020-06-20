@@ -32,6 +32,6 @@ You can see the extracted text is 100% accurate since the image was really clear
 
 ![](Images/op2.JPG)
 
-The output is approx.80% correct due to presence of noise in the image. It can be improved by doing preprocessing of the image more thoroughly and by changing the ocr configurations.
+The output is approx. 80% correct due to presence of noise in the image. It can be improved by doing preprocessing of the image more thoroughly and by changing the ocr configurations.
 
 The extracted text can now be used to detect sentiment and other related tasks can be performed.
