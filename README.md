@@ -16,7 +16,7 @@ Using OpenCV and PyTesseract to extract text from images.
 
 **Input 1 - textimg.jpg**
 
-![](Images/textimg.JPG)
+![](Images/textimg.jpg)
 
 **Output**
 
@@ -26,7 +26,7 @@ You can see the extracted text is 100% accurate since the image was really clear
 
 **Input 2 - book_page.jpg**
 
-![](Images/book_page.JPG)
+![](Images/book_page.jpg)
 
 **Output**
 
